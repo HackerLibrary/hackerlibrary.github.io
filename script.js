@@ -172,7 +172,7 @@ const books = [
       file:"Books/13.pdf",
       catagory:"Red Teaming"
 
-},
+}
 ];
 
 function displayBooks(books) {
